@@ -267,8 +267,8 @@ github.com/onsi/gomega v1.20.1/go.mod h1:DtrZpjmvpn2mPm4YWQa0/ALMDj9v4YxLgojwPeR
 github.com/opensourceways/community-robot-lib v0.0.0-20231018034126-a664e14dbb9d h1:g/i5rlWzEDeSxbcf8zlzYB5m/tManw5ZLfwnM8obi+c=
 github.com/opensourceways/community-robot-lib v0.0.0-20231018034126-a664e14dbb9d/go.mod h1:LlcEXB8B167NgeE8klLcztmg8oeGHJNEeZGv7xmxxFU=
 github.com/opensourceways/go-gitee v0.0.0-20231017075452-8c3dcc460ed2/go.mod h1:davbfHJ2gG4YY3cnsiWzG6VUptVWIFi+ltNldgmgySQ=
-github.com/opensourceways/xihe-grpc-protocol v0.0.0-20231016132418-95a47394b355 h1:H2VrXLMdp2cwYP5NoieCs3kMNQ4fwsGzA6aWz3A0FTo=
-github.com/opensourceways/xihe-grpc-protocol v0.0.0-20231016132418-95a47394b355/go.mod h1:5P7amg+mFD8+CyQTrZ9DxZy97+5gcHLWZQGK8IKnZaU=
+github.com/opensourceways/xihe-grpc-protocol v0.0.0-20231018090501-e7ea782f5815 h1:iC6Wb82l9c/tZFgH9ITDCrD7H/HMf+QIvmS0y70Ck5s=
+github.com/opensourceways/xihe-grpc-protocol v0.0.0-20231018090501-e7ea782f5815/go.mod h1:VGOxZagbC7dxDXuFKm3nK1iTJHYYIQ62Bth7H/8bmGU=
 github.com/pierrec/lz4/v4 v4.1.14/go.mod h1:gZWDp/Ze/IJXGXf23ltt2EXimqmTUXEy0GFuRQyBid4=
 github.com/pierrec/lz4/v4 v4.1.18 h1:xaKrnTkyoqfh1YItXl56+6KJNVYWlEEPuAQW9xsplYQ=
 github.com/pierrec/lz4/v4 v4.1.18/go.mod h1:gZWDp/Ze/IJXGXf23ltt2EXimqmTUXEy0GFuRQyBid4=
