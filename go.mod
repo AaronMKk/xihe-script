@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/opensourceways/community-robot-lib v0.0.0-20231018034126-a664e14dbb9d
-	github.com/opensourceways/xihe-grpc-protocol v0.0.0-20231016132418-95a47394b355
+	github.com/opensourceways/xihe-grpc-protocol v0.0.0-20231018090501-e7ea782f5815
 	github.com/sirupsen/logrus v1.9.3
 	sigs.k8s.io/yaml v1.3.0
 )
