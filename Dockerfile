@@ -32,5 +32,6 @@ USER mindspore
 WORKDIR /opt/app/xihe-script/
 
 COPY --chown=mindspore:mindspore --from=BUILDER /go/src/mindspore/xihe-script/xihe-script /opt/app/xihe-script/
+RUN chmod 550 /opt/app/xihe-script/
 
 ENTRYPOINT ["/opt/app/xihe-script/xihe-script"]
