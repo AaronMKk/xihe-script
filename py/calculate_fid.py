@@ -25,8 +25,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torchvision
 
-# http://download.tensorflow.org/models/image/imagenet/inception-2015-12-05.tgz
-# FID_WEIGHTS_URL = 'https://github.com/mseitzer/pytorch-fid/releases/download/fid_weights/pt_inception-2015-12-05-6726825d.pth'  # noqa: E501
 FID_WEIGHTS_PATH = "xihe-obj/competitions/昇思AI挑战赛-艺术家画作风格迁移/result/pt_inception-2015-12-05-6726825d.pth"
 REAL_OBS_PATH = 'xihe-obj/competitions/昇思AI挑战赛-艺术家画作风格迁移/result/target_style_vangogh'
 REAL_FILE_NAME = 'target_style_vangogh'
